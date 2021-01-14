@@ -13,3 +13,10 @@ mvn clean package
 ir a la carpeta target generado despues de ejecutar el codigo anterior y ejecutar el .jar como se muestra a continuacion
 
 java -jar ReadRawInput-1.0-SNAPSHOT-jar-with-dependencies.jar
+
+
+## Cuidado
+
+EL codigo solo ha sido probado en entonmnos linux pero deberia funciona tambien en windows, no ejecute el codigo desde el IDE use una terminal de linux o cmd de windows
+
+
